@@ -22,7 +22,7 @@ A Streamlit web application for downloading YouTube videos in various resolution
 ### Local Setup
 ```bash
 # Clone repository
-git clone https://github.com/your-username/ytdown.git
+git clone https://github.com/hawkh/ytdown.git
 cd ytdown
 
 # Create virtual environment (recommended)
