@@ -1,0 +1,3 @@
+streamlit>=1.32.0
+yt-dlp>=2023.11.16
+pyyaml>=6.0.1  
